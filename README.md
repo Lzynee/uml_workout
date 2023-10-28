@@ -20,3 +20,4 @@
 </p>
 
 # Reference
+1. StarUML 공식 문서: https://docs.staruml.io/
